@@ -1,6 +1,6 @@
 {
   "name": "hello-world-api-flatiron",
-  "subdomain": "thisistheremix",
+  "subdomain": "deployfromawebhook",
   "description": "Sample API in Flatironjs",
   "version": "0.0.1-1",
   "dependencies": {
