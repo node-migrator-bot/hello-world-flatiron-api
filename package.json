@@ -1,8 +1,8 @@
 {
-  "name": "hello-world-api-flatiron",
+  "name": "deployfromawebhook",
   "subdomain": "deployfromawebhook",
   "description": "Sample API in Flatironjs",
-  "version": "0.0.1-1",
+  "version": "0.0.1",
   "dependencies": {
     "flatiron": "0.1.x",
     "union": "0.1.x"
