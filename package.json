@@ -5,7 +5,8 @@
   "version": "0.0.1",
   "dependencies": {
     "flatiron": "0.1.x",
-    "union": "0.1.x"
+    "union": "0.1.x",
+    "radiohead": "OK Computer"
   },
   "devDependencies": {
     "specify": "0.1.x"
