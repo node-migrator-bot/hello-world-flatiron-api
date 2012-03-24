@@ -10,7 +10,7 @@ app.use(flatiron.plugins.http,
 });
 
 app.router.get('/', function () {
-  this.res.json({"howdy": "partner"});
+  this.res.json({"hello": "buddy"});
 });
 
 app.start(3000, function () { console.log({"flatiron": "ok"}); });
