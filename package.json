@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "specify": "0.1.x"
-  }
+  },
   "scripts": {
     "test": "ls -tr test/*.js | xargs -I{} node {}",
     "start": "node index.js"
